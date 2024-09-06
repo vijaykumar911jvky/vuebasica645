@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0.0",
+  "components": [
+    {
+      "id": "frontend",
+      "friendlyName": "Vue App",
+      "type": "static",
+      "appLocation": "/",
+      "outputLocation": "dist"
+    }
+  ]
+}
